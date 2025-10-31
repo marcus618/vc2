@@ -17,8 +17,8 @@ As mentioned at the lecture, I implemented transformations with keyboard input i
 | `Esc`       | Exit                                   |
 
 
-2. **Run**
-cd into one of the build folders
-depending on the folder cd into either the debug or release folders
-run "./OpenCVLab" in terminal
+2. **How to run:**
+CD into one of the build folders.
+Depending on the folder CD into either the debug or release folders.
+Run "./OpenCVLab" in terminal
 
