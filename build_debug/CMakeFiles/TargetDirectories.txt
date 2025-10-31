@@ -1,0 +1,3 @@
+C:/Users/marcu/Desktop/Visual Computing/Assignment2/build_debug/CMakeFiles/OpenCVLab.dir
+C:/Users/marcu/Desktop/Visual Computing/Assignment2/build_debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/marcu/Desktop/Visual Computing/Assignment2/build_debug/CMakeFiles/ZERO_CHECK.dir

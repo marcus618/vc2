@@ -1,0 +1,10 @@
+^C:\USERS\MARCU\DESKTOP\VISUAL COMPUTING\ASSIGNMENT2\BUILD_DEBUG\CMAKEFILES\C8D656DAF719CE9DDE4632B1847E8480\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/marcu/Desktop/Visual Computing/Assignment2" "-BC:/Users/marcu/Desktop/Visual Computing/Assignment2/build_debug" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/marcu/Desktop/Visual Computing/Assignment2/build_debug/OpenCVLab.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
